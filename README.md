@@ -5,5 +5,9 @@
 
 - Este projeto foi dividido em missões, conforme listado abaixo:
 
-Missão 01
+Módulo 01
 -> Realizar a análise exploratória de dados do conjunto. ([Clique aqui para acessar](https://github.com/lucianaaguiarc/python_do_zero_ao_ds/blob/main/missao01.ipynb)).
+
+Módulo 02
+-> Trabalhar com manipulação de dados. ([Clique aqui para acessar](https://github.com/lucianaaguiarc/python_do_zero_ao_ds/blob/main/M2_ManipulacaoDeDados.ipynb)).
+
