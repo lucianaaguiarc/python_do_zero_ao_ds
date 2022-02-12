@@ -3,7 +3,7 @@
 
 - O conjunto de dados utilizado traz dados sobre imóveis à venda e está disponível no kaggle ([link](https://www.kaggle.com/shivachandel/kc-house-data)).  
 
-- Este projeto foi dividido em missões, conforme listado abaixo:
+- Este projeto foi dividido em módulos, conforme listado abaixo:
 
 Módulo 01
 -> Realizar a análise exploratória de dados do conjunto. ([Clique aqui para acessar](https://github.com/lucianaaguiarc/python_do_zero_ao_ds/blob/main/missao01.ipynb)).
